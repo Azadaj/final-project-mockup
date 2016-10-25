@@ -1,10 +1,16 @@
-import './add-stuff-page.html';
-import './add-stuff-page.js';
+import './Admin_home_page.html';
+import './Admin_home_page.js';
 
-import './edit-stuff-page.html';
-import './edit-stuff-page.js';
+import './Browse_users_page.html';
+import './Browse_users_page.js';
 
 import './home-page.html';
 
-import './list-stuff-page.html';
-import './list-stuff-page.js';
+import './Login_page.html';
+import './Login_page.js';
+
+import './User_home_page.html';
+import './User_home_page.js';
+
+import './User_profile_page.html';
+import './User_profile_page.js';
